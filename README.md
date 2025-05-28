@@ -1,4 +1,4 @@
-# Lucene Indexer Search API
+# Lucene Movies Indexer API
 
 This project explores the capabilities of Apache Lucene, a powerful Java library for implementing full-text search features. The experiments in this repository demonstrate indexing, searching, and analyzing text data using Lucene's core APIs.
 
